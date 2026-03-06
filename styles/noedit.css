@@ -109,7 +109,7 @@ h2 {
 }
 
 .news-item__image-link {
-    aspect-ratio: 4/3;
+    
     height: 90px;
     display: block;
     border-radius: .5rem;
